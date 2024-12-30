@@ -5,6 +5,7 @@
   - [Overview](#overview)
   - [Goals](#goals)
   - [Deliverables](#deliverables)
+  - [Thought Process](#thought-process)
 - [Data Structure](#data-structure)
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
@@ -47,6 +48,15 @@ I analyzed sports betting activities including YTD aggregated betting activities
   <img width="485" alt="Data modelling" src="https://github.com/user-attachments/assets/25e04460-4cb4-41db-a671-9d89c7334b3b" />
 
 Data cleaning, transformation, merging, and modeling were conducted in Power Query(Power BI) for granularity reporting and data visualization.
+
+### Thought Process:
+My deep domain knowledge in gaming, particularly in sports betting, shaped my approach to analyzing data insights most valuable to different stakeholders. The goal was to optimize future campaigns by catering to the needs of top executives, commercial managers, and marketing teams.  
+
+This understanding influenced my data modeling and transformation process. I began by merging stand-alone datasets for Oct 9-13 (campaign week) and Oct 14-20 (post-campaign week) using the Append function in Power Query Editor. This allowed me to create a comprehensive view of player activities during and after the campaign.  
+
+Next, I utilized advanced DAX queries to build visualizations, presenting high-level KPIs to offer top executives actionable insights. I then drilled down into granular trends such as registration patterns, first-time deposits, player attrition, and comparisons of behaviors between those using real money and free bets. These detailed insights catered to the specific needs of Commercial and Marketing managers, enabling a more nuanced understanding of player engagement and campaign impact.  
+
+This structured and stakeholder-focused approach ensured that both high-level overviews and deep dives into critical KPIs were available, helping to inform strategic decisions for future campaigns.  
 
 ## Executive summary: 
 The campaign spanned October 9th to 13th, during which free bets were distributed to both YTD active and inactive players, the company did **₦2.75M** GGR in the campaign week, and less than **2.5%** of the **431** FTDs recorded in the campaign week came from players offered free bets, which means the free bet drove new user acquisition and converted first-time deposits of **₦1.31M** during the campaign week.  
@@ -119,9 +129,9 @@ Click this link to interact with the [dashboard:](https://app.powerbi.com/view?r
 
 
 ## Technical Details: 
-- *DAX Query*: Calculations for GGR, FTDs, free bet used, and given target and retention metrics were implemented using DAX.
-- *Data Modelling*: Tables were linked through Power BI’s relationship manager, ensuring seamless data integration for reporting.
-- *Data Visualization*: An interactive dashboard was created to provide actionable insights and real-time tracking of future campaign success.
+- *DAX Query*: Calculations for GGR, FTDs, free bet used, and given target and retention metrics were calculated for visualization writing advanced DAX.
+- *Data Modelling*: Tables were linked through Power BI’s relationship manager, ensuring seamless data integration for reporting through Snowflake schema.
+- *Data Visualization*: An interactive dashboard was created, choosing appropriate charts for different data points to provide actionable insights and real-time tracking of future campaign success.
 - *Row Level Security*: Hierarchical access was implemented, granting tailored data access to the Executive, marketing, and commercial manager.
 
 ## Clarifying Questions, Assumptions, and Caveats
