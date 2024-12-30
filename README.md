@@ -110,7 +110,7 @@ Most of the bonus bets that linger into the post-campaign week cost the company 
 - *Refine Target Audience*: Focus free bet offers on players segments with a higher likelihood of conversion, such as players with prior deposits or moderate activity levels and new users.
 - *Optimize Bonus Structures*: Implement wagering requirements for bonus usage to mitigate potential revenue losses.
 - *Diversify Incentives*: Introduce tiered rewards like loyalty points or cashback incentives to attract and retain players without excessive bonus costs.
-- *Post-Campaign Follow-Up*: Create personalized offers for new users who registered and deposited during and after the campaign to encourage sustained activity.
+- *Post-Campaign Follow-Up*: To encourage sustained activity, create personalized offers for new users who registered and deposited during and after the campaign.
 - *Track ROI Metrics*: Use insights from the dashboard to refine audience segmentation and predict future trends. Monitor the profitability of free bets and other promotional activities more closely using tailored KPIs.
 
 Click this link to interact with the [dashboard:](https://app.powerbi.com/view?r=eyJrIjoiZDZiNTQ0YWUtODY1YS00ZGEwLTllMWYtMDFkZWExMTZjZTFjIiwidCI6ImIxNjIzYzU5LWJjYmQtNGU1YS1iNTY3LTBkZjI0NGI5ODU0MyJ9)
