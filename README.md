@@ -31,12 +31,12 @@ I analyzed sports betting activities including YTD aggregated betting activities
   - Better tailor campaigns to reactivate inactive players, improve user acquisition, and retention, and ROI on commercial spending.
   - Built a high-level interactive dashboard to help Executives, and stakeholders monitor campaign KPIs.
 ### Deliverables: 
-- I delivered tailored insights for top Executives, marketing, and commercial team stakeholders.
+- I delivered tailored insights for top executives and marketing and commercial team stakeholders.
 - Built an interactive Power BI dashboard with hierarchical row-level security providing various report access for stakeholders to monitor trends and KPIs.
 
 ## Data Structure: 
 
-- *Players Segment*: This dataset provides the player ID for all players offered freebet and the amount of freebet given.
+- *Players Segment*: This dataset provides the player IDs of all players offered a free bet and the amount of freebies given.
 
 - *Jan_Oct8_ Activities*: Each record represents aggregated betting activities of players from January to October, a day before the free bet campaign, outlined bet counts, bonus stakes, bonus winnings, profit margin, stakes, and GGR, this gives us a YTD total of different KPIs
 
