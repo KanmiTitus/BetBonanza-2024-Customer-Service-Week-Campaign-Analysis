@@ -63,33 +63,32 @@ The campaign spanned October 9th to 13th, during which free bets were distribute
 
 Most of the bonus bets that linger into the post-campaign week cost the company **62%** of the **-₦28.6M** GGR big loss recorded. October recorded the highest FTDs count and deposit value at **₦4,899,509**, a **46.5%** increase from August 2024. While the campaign successfully drove new user acquisition and FTDs, it resulted in a significant revenue loss due to lingering bonuses, To mitigate risk in the future, wagering requirements should be implemented and disallow bonus usage to extend beyond promotional week.
 
-
-  <img width="587" alt="KPIs trend" src="https://github.com/user-attachments/assets/2de43ae7-8d16-4b00-9bb8-0e0f67657737" />
-
+![KPIs Card](https://github.com/user-attachments/assets/99328f69-5923-4ba7-8508-2c9c11db77d5)
 
 ## Insights Deep-Dive: 
+
 ### First-time deposit trend
 - FTDs exhibit a steady increase in the monthly trend, October recorded the highest FTDs of **₦4.89M**, a **114.8% MoM** increase.
 - During the campaign week, **431** FTDs totaled **₦1.31M**, followed by a **64.89%** rise in FTD counts the next week, although there was no notable increase in the actual deposit value.
 - Most FTDs, **99.64%** during the campaign and **99.24%** post-campaign were from new users, indicating limited impact from free bets given to existing players.
-  
-  
-<img width="447" alt="FTDs Trend" src="https://github.com/user-attachments/assets/e1b16bab-aa5f-4f2a-8cdb-78330ce7fbda" />
 
+![Deposit trend](https://github.com/user-attachments/assets/c68564ed-8bd0-4c9e-8300-f54cfc4ef561)
 
-<img width="349" alt="FTD" src="https://github.com/user-attachments/assets/2c342f03-1e88-4f38-80f4-fd96289f897f" />
+![Alltime KPIs trend](https://github.com/user-attachments/assets/7f2dae1f-73c1-49d2-b8c5-19c8d2194d0b)
 
 ### Total Deposit:
 - Campaign week deposits totaled **₦86.02M**, with a slight **-1.93%** decline the following week.
 - FTDs accounted for only **1.52%** and **1.6%** of total deposits during and after the campaign week.
 
+
 ### Gross Gaming Revenue (GGR): 
 - The company did **₦341,799,041** year-to-date GGR as of October 20, 2024.
+
 - The campaign week generated **₦2.75M** GGR, while the post-campaign week recorded a huge **₦28.46M** loss.
 - **62%** of the loss was linked to bonus bets that lingered into the post-campaign period.
 - There’s a huge margin between the pre-campaign profit margin, campaign week, and post-campaign week profit margin.
 
-<img width="395" alt="KPIs" src="https://github.com/user-attachments/assets/3c83225c-ea36-405a-9f96-48bda7e9979c" />
+![CampWeekVsPostCampWeek](https://github.com/user-attachments/assets/83f41018-4cdc-4c52-bd1c-cdf450299262)
 
 
 ### Bonus Wins: 
@@ -99,20 +98,20 @@ Most of the bonus bets that linger into the post-campaign week cost the company 
 - Only **7.07%** of **136,257** free bet recipients players were active during the campaign week, with a **2.45%** retention rate in the post-campaign week.
 - Overall company recorded a **3.44%** retention rate of free bet recipients in the post-campaign week.
 
-  <img width="500" alt="Retention Rate Visuals" src="https://github.com/user-attachments/assets/f72e7911-5d37-48aa-b83a-1d610649f40d" />
-
+![Player Retention](https://github.com/user-attachments/assets/5016afc2-57f5-453a-b6aa-eb34c794aff1)
 
 ### Free Bet Usage: 
 - A total of **₦29M** in free bets was distributed to **136,257** recipients, but **92%** of recipients remained inactive or didn’t log in to access their free bet in the campaign week.
 - Only **₦5.33M** free bets were used during the campaign and Immediate post-campaign week, with **77%** of the total bonus bet stake in the post-campaign week.
 
-  <img width="451" alt="freebets" src="https://github.com/user-attachments/assets/7cc77ac5-ad1b-4375-ae2f-dcd4b7a89501" />
-
+ ![Screenshot 2025-02-14 145354](https://github.com/user-attachments/assets/f9d25624-c1f8-4422-bc3c-aa45a00e6539)
 
 ## Conclusions and Recommendations:
+
 ### Conclusions: 
 - *Success in New User Acquisition*: The campaign drove significant FTDs and new user registrations.
 - *Revenue Loss*: Bonus bets contributed heavily to a **₦28.6M** loss post-campaign.
+
 - *Low Conversion Among Free Bet Recipients*: Most free bet recipients did not deposit or engage meaningfully during the campaign.
 - *Sustained Engagement Needed*: Retention rates among free bet recipients were very low, highlighting the need for better follow-up strategies.
 
@@ -125,8 +124,7 @@ Most of the bonus bets that linger into the post-campaign week cost the company 
 
 Click this link to interact with the [dashboard:](https://app.powerbi.com/view?r=eyJrIjoiZDZiNTQ0YWUtODY1YS00ZGEwLTllMWYtMDFkZWExMTZjZTFjIiwidCI6ImIxNjIzYzU5LWJjYmQtNGU1YS1iNTY3LTBkZjI0NGI5ODU0MyJ9)
 
-<img width="631" alt="BetBonanza_Dashboard" src="https://github.com/user-attachments/assets/e30a0979-9331-4501-955e-5e339614c158" />
-
+![_CampaignAnalysisdashboard](https://github.com/user-attachments/assets/c8e0e386-dad6-47b1-abd7-977b736dde69)
 
 ## Technical Details: 
 - *DAX Query*: Calculations for GGR, FTDs, free bet used, and given target and retention metrics were calculated for visualization writing advanced DAX.
